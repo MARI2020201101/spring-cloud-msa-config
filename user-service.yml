@@ -7,3 +7,6 @@ spring:
 
 service:
   message: '{cipher}7b91140ba16741e57587e77f97142451d80c34828f1480fea7b024c4b1ec5a0f90909eb1eca80d01606ab2c0b7e5322a'
+
+url:
+  order-service: http://127.0.0.1:8000/order-service/%s/orders
