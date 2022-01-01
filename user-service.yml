@@ -5,4 +5,5 @@ spring:
     username: sa
 
 
-    
+service:
+  message: '{cipher}b2f514288dc82cfc84e32a980703f86889df99ab3424fab2caa38df12008101e8ecf96f0db92854f33ee734554671b75'
