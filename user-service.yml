@@ -1,0 +1,8 @@
+spring: 
+  datasource:
+    driver-class-name: '{ciper}abe538ea15d12b0d38ff2862fb1b6daa9675e537f6581b79d9ef7d2f06faabb4'
+    url: jdbc:h2:mem:testdb
+    username: sa
+
+
+    
